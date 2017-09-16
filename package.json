@@ -1,6 +1,6 @@
 {
   "name": "node-redis-model",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a straight-forward, schema-based solution to model your application data.",
   "main": "index.js",
   "scripts": {
